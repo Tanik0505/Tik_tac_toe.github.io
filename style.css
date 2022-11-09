@@ -1,0 +1,60 @@
+body{
+    background-image: url(background10.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    margin-top: 0px;
+    text-align: center;
+    text-decoration: underline;
+    font-family: cursive;
+    font-size: 55px;
+
+}
+
+#result{
+    text-align: center;
+    font-size: 30px;
+    font-family: cursive;
+    font-weight: bolder;
+    margin-top: -30px;
+    color: antiquewhite;
+}
+
+#box{
+    padding-left: 460px;
+    margin-top: -17px;
+
+}
+
+.tic-tac-toe{
+    height: 100px;
+    width: 100px;
+    border-width: thick;
+    border-color: #7d7d79;
+    cursor: pointer;
+    font-size: xxx-large;
+    color:white;
+
+}
+
+#edit{
+    margin-left: 445px;
+    margin-right: 20px;
+}
+
+.button{
+    text-align: center;
+    height: 50px;
+    width: 152px;
+    font-size: large;
+    border-radius: 15px;
+    background-color: #ff7b07;
+    color: white;
+    border-width: 2px;
+    border-color: #717171;
+    margin-top: 10px;
+    cursor: pointer;
+}
